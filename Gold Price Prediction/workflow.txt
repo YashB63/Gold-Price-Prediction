@@ -1,0 +1,1 @@
+Gold Price Data -> Data Pre Processing -> Data Analysis -> Train Test Split -> Random Forest Regressor -> Evaluation
